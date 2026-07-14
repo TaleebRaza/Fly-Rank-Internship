@@ -80,4 +80,4 @@ Commit descriptions should be imperative, concise, and lowercase.
 - Do not modify unrelated files.
 - Do not add a dependency when the standard library is sufficient.
 - Show the files changed and the validation performed.
-- Ask before performing destructive Git operations.
+- Ask before performing destructive Git operations. 
