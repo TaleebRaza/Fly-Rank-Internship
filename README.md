@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # FlyRank Capstone
 
 This repository contains my capstone project for the FlyRank AI-assisted
